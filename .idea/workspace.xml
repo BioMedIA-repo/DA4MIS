@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5a9b953-2768-4873-8200-7a86a3220a36" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/pic/wechat.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e5a9b953-2768-4873-8200-7a86a3220a36" name="Changes" comment="README.md">
       <change beforePath="$PROJECT_DIR$/profile/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/profile/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710657373560</updated>
-      <workItem from="1710657374734" duration="5943000" />
+      <workItem from="1710657374734" duration="6262000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1710660097147</created>
@@ -96,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710661476096</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="README.md">
+      <created>1710663516050</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710663516050</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md" />
   </component>
 </project>
