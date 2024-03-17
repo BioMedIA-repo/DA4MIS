@@ -9,9 +9,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# <p align="center">👨🏻‍⚕️🏥BioMedIA👨🏻‍💻🤖</p>
+# <p align="center">👨🏻‍⚕️🏥Unsupervised domain adaptation method for medical image analysis👨🏻‍💻🤖</p>
 
-## Literature reviews of domain adaptation method for medical image segmentation
+## Literature reviews of domain adaptation method for medical image analysis
 
 | Date    | The First and Last Authors | Title                                                                                                                        | Code                                             | Reference                                                                 |
 |---------|----------------------------|------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|---------------------------------------------------------------------------|
@@ -35,30 +35,3 @@ applications to biomedical image and bioinformation analysis, promoting the deve
 Collaborate with us to increase competitiveness.
 
 **Questions:** General questions, please contact 'qgking@tju.edu.cn'
-
-## Citation
-
-If the repository is helpful for your research, please consider citing:
-
-```shell
-@article{jin2024inter,
-title={Inter-and intra-uncertainty based feature aggregation model for semi-supervised histopathology image segmentation},
-author={Jin, Qiangguo and Cui, Hui and Sun, Changming and Song, Yang and Zheng, Jiangbin and Cao, Leilei and Wei, Leyi and Su, Ran},
-journal={Expert Systems with Applications},
-volume={238},
-pages={122093},
-year={2024},
-publisher={Elsevier}
-}
-
-@inproceedings{jin2022semi,
-title={Semi-supervised histological image segmentation via hierarchical consistency enforcement},
-author={Jin, Qiangguo and Cui, Hui and Sun, Changming and Zheng, Jiangbin and Wei, Leyi and Fang, Zhenyu and Meng, Zhaopeng and Su, Ran},
-booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-pages={3--13},
-year={2022},
-organization={Springer}
-}
-
-
-  ```
