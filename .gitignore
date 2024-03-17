@@ -5,6 +5,7 @@
 /.vscode/
 /bin/
 
+.xml
 .classpath
 .project
 .settings
