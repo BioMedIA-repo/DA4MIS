@@ -18,11 +18,6 @@
 | 2023/12 | S. Liu and Z. Song         | A Structure-Aware Framework of Unsupervised Cross-Modality Domain Adaptation via Frequency and Spatial Knowledge Distillation| [Code](https://github.com/slliuEric/FSUDA)       | [TMI2023](https://ieeexplore.ieee.org/abstract/document/10261458)         |
 | 2021/06 | M. Ning and Y. Zheng       | A New Bidirectional Unsupervised Domain Adaptation Segmentation Framework                                                    | None                                             | [IPMI2021](https://link.springer.com/chapter/10.1007/978-3-030-78191-0_38)|
 
-## Code for medical image segmentation.
-
-Some implementations of semi-supervised learning methods can be found in
-this [Link](https://github.com/BioMedIA-repo/PG-FANet).
-
 ## Social media
 
 <p align="center"><img width="600" alt="image" src="https://github.com/BioMedIA-repo/.github/blob/052046a248d3831a599e11c85ff94cdd658c5abc/pic/wechat.png" height=""></p> 
