@@ -1,4 +1,4 @@
-# <p align="center">👨🏻‍⚕️🏥Domain adaptation method for 👨🏻‍💻🤖 medical image analysis</p>
+# <p align="center">👨🏻‍⚕️🏥Domain adaptation method for medical👨🏻‍💻🤖image analysis</p>
 
 ## Literature reviews of domain adaptation method for medical image analysis
 
